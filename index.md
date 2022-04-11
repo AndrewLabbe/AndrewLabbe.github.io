@@ -1,3 +1,3 @@
-# Andrew Labbe
+# AndrewLabbe
 
 Welcome to my website!
