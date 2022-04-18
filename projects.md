@@ -7,3 +7,5 @@ This is another of my github projects that I created which uses the wheels packa
 
 ## [Washing App](https://github.com/AndrewLabbe/WashingApp)
 This is another of my github projects that I created with a couple others to mock an App that tracks what washers and dryers are done in a Quinnipiac dorm. We used Java to program this and we all used Eclipse to evade any code sharing errors when pulling down from master. Probably the biggest challenge with this project was working together asynchronously and resolving merge conflicts when they occured.
+
+## [Back to Homepage](https://andrewlabbe.github.io)
