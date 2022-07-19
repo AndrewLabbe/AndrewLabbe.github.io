@@ -4,4 +4,4 @@ My name is Andrew Labbe and I am currently a freshman Computer Science major at 
 ### [About](https://andrewlabbe.github.io/about)
 Learn more about me above!
 ### [Projects](https://andrewlabbe.github.io/projects)
-Look at some of my github projects above!
+Look at some of my GitHub projects above!
